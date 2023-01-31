@@ -1,0 +1,19 @@
+.code-content {
+  padding: 30px;
+}
+.code-block {
+  margin: auto;
+  margin-top: 30vh;
+  border: 1px solid #777;
+  width: 50%;
+  border-radius: 5px;
+  position: relative;
+}
+.copy-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 5px;
+  font-size: 12px;
+  cursor: pointer;
+}
